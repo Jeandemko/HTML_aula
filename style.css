@@ -8,7 +8,7 @@ margin: 40px;
 background-color: blue;
 text-size-adjust: 40px;
 justify-content: center;
-border-bottom:5px ; 5px rgb(red, green, blue)
+border-bottom:5px ; rgb(red, green, blue);
 padding: 5px;
 }
 section{

@@ -8,3 +8,8 @@ background-color: blue;
 text-size-adjust: 40px;
 justify-content: center;
 }
+section{
+background-color: gold;
+margin: 40px;
+display:flex
+}
